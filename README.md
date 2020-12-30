@@ -3,9 +3,6 @@ Addins to Embed [Veusz](https://github.com/veusz/veusz/) in LibreOffice Calc and
 These addins were originally developed by Stefan Eidelloth (software@isfh.de).  
 See [Veusz wiki](https://github.com/veusz/veusz/wiki/Addins-for-veusz) for the explanation of the addins.   
 
-Korintje(https://github.com/korintje) have made a little updates to work in the newer Calc and Excel.  
-However, There are still something remained to be solved to the complete work.   
-
 # Description for Libre office Calc
 'This Add-In includes a set of macros to "embed" Veusz in Calc  
 'It uses TextBoxes as "Veusz diagram objects". The background of the  
