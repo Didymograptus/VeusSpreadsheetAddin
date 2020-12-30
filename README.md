@@ -1,7 +1,8 @@
 # Eidelloth-VeuszEmbedAddin  
-Addins to Embed Veusz in LibreOffice Calc and Microsoft Excel   
+Addins to Embed [Veusz](https://github.com/veusz/veusz/) in LibreOffice Calc and Microsoft Excel   
 These addins were originally developed by Stefan Eidelloth (software@isfh.de).  
-https://github.com/veusz/veusz/wiki/Addins-for-veusz  
+See [Veusz wiki](https://github.com/veusz/veusz/wiki/Addins-for-veusz) for the explanation of the addins.   
+
 Korintje(https://github.com/korintje) have made a little updates to work in the newer Calc and Excel.  
 However, There are still something remained to be solved to the complete work.   
 
