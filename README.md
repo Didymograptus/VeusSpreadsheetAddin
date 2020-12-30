@@ -36,3 +36,6 @@ See [Veusz wiki](https://github.com/veusz/veusz/wiki/Addins-for-veusz) for the e
 'Written by Stefan Eidelloth, 2011  
 '  
 'Have Fun!  
+
+## License
+MIT
