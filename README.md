@@ -1,7 +1,7 @@
 # Background
 
 Addins to Embed [Veusz](https://github.com/veusz/veusz/) in LibreOffice Calc and Microsoft Excel   
-These addins were originally developed by Stefan Eidelloth (software@isfh.de) in 2011. 
+These addins were originally developed by Stefan Eidelloth in 2011. 
 
 See the docs (TBA) for the explanation of how to install and use the addins.   
 
