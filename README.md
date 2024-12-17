@@ -1,4 +1,4 @@
-# DEscription
+# Description
 
 Addins to Embed [Veusz](https://github.com/veusz/veusz/) in LibreOffice Calc and Microsoft Excel   
 These addins were originally developed by Stefan Eidelloth (software@isfh.de) in 2011. 
