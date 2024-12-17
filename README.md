@@ -1,3 +1,16 @@
+# TODO
+
+- [x] fix immediate bug to make addins work in Win 10 with Veusz 3.6
+- [ ] review code & refactor where rqd
+- [ ] create menu items
+- [ ] create xlam (Excel)
+- [ ] add template (multi y)
+- [ ] add graph title
+- [ ] write docs
+- [ ] check Calc addin in Debian
+- [ ] Test, test and test
+- [ ] create package
+
 # Background
 
 Addins to Embed [Veusz](https://github.com/veusz/veusz/) in LibreOffice Calc and Microsoft Excel   
